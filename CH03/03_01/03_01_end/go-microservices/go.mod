@@ -6,7 +6,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/labstack/echo/v4 v4.10.2
 	gorm.io/driver/postgres v1.5.2
-	gorm.io/gorm v1.25.1
+	gorm.io/gorm v1.31.2
 )
 
 require (
@@ -23,7 +23,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/sync v0.9.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/text v0.20.0 // indirect
 )
